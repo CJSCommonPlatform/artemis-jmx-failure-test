@@ -1,22 +1,58 @@
-# Compiled class file
+# Java
 *.class
 
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.ear
-*.zip
-*.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Thumbnails
+Thumbs.db
+
+# Object files (no binaries in git repos!)
+*.obj
+*.exe
+*.so
+*.zip
+*.tar
+*.gz
+
+# Mac
+.fseventsd/
+.Spotlight-V100/
+.Trashes/
+._.Trashes
+.DS_Store
+
+# Eclipse
+.classpath
+.compatibility
+.project
+.pydevproject
+.factorypath
+.checkstyle
+.metadata/
+.settings/
+.pmd
+.springBeans
+.tern-project
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Subversion
+.svn/
+
+# Misc
+*~
+*.log
+*.orig
+*.sonar
+deployWars.sh
+buildContexts.sh
+.externalToolBuilders
