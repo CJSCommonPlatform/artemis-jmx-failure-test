@@ -11,7 +11,7 @@
 
         <plugins.maven.compiler.version>3.6.1</plugins.maven.compiler.version>
         <artemis.version>2.3.0</artemis.version>
-        <activemq.client.version>5.15.0</activemq.client.version>
+        <activemq.client.version>5.15.9</activemq.client.version>
         <slf4j.version>1.7.10</slf4j.version>
         <junit.version>4.12</junit.version>
         <maven.failsafe.version>2.20</maven.failsafe.version>
