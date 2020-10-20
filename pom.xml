@@ -13,7 +13,7 @@
         <artemis.version>2.3.0</artemis.version>
         <activemq.client.version>5.15.0</activemq.client.version>
         <slf4j.version>1.7.10</slf4j.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven.failsafe.version>2.20</maven.failsafe.version>
 
         <artemis.home>${project.build.directory}/apache-artemis-${artemis.version}</artemis.home>
